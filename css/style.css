@@ -1,0 +1,33 @@
+
+.body {
+    font-size: 20px;
+    font-family: verdana;
+}
+.navbar {
+    background-color: #F9E8D7;
+}
+
+.quem-somos {
+    background-color: rgb(44, 44, 44);
+    color: whitesmoke;
+}
+
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-top: 10px
+}
+
+.nossos-serviços {
+    background-color: whitesmoke;
+}
+
+.nosso-contato {
+    background-color: rgb(44, 44, 44);
+    color: whitesmoke;
+
+}
+.bg-footer {
+    background-color: #F9E8D7;
+}
